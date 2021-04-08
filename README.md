@@ -1,5 +1,3 @@
-<a href="https://codeclimate.com/github/vivekjuneja/docker_registry_cli"><img src="https://codeclimate.com/github/vivekjuneja/docker_registry_cli/badges/gpa.svg" /></a>
-
 # docker_registry_cli
 
 Docker Registry CLI - Currently ONLY Supports the Search capability via Catalog API in the new version of Docker Registry v2. 
@@ -10,10 +8,6 @@ Features :-
 2. Search for repositories
 3. Supports HTTPS and Basic Auth enabled Docker Registry
 4. Added support for Search Web UI
-
-Docker Registry search under 1 minute :-
-
-[![asciicast](https://asciinema.org/a/d1n97bbb21a7pdrzjmhfwk6ef.png)](https://asciinema.org/a/d1n97bbb21a7pdrzjmhfwk6ef)
 
 
 Prerequisities :-
